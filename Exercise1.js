@@ -25,11 +25,11 @@ monkeys++;
 bananas--;
 
 console.log(monkeys)
-console.log,(bananas);
+console.log(bananas);
 
 let happiness = (bananas - monkeys);
 
-console.log(happiness+monkeyfights);
+console.log(happiness + monkeyfights);
 
 console.log(resultOne % resultTwo);
 
